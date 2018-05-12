@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25129#Baboo-Jabberjee-B.A.
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2008-04-22'
 gutenberg_type: Text
